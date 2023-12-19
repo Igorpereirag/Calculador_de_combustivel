@@ -13,6 +13,7 @@ Um aplicativo Android simples para comparar os preços da gasolina e do etanol e
 - Dispositivo Android ou emulador.
 
 ## Uso
+*utilize o android studio para buildar a aplicação*
 
 1. Abra o aplicativo.
 2. Insira os preços da gasolina e do etanol nos campos correspondentes.
